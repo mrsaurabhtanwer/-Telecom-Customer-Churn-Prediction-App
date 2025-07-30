@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaboration, please contact [Your Name] or create an issue on GitHub.
+For questions or collaboration, please contact @mrsaurabhtanwer or create an issue on GitHub.
 
-# Telecom-Customer-Churn-Prediction-App
+Telecom-Customer-Churn-Prediction-App
 [App](https://telecom-customer-churn-prediction-app-mrsaurabhtanwer.streamlit.app/)
